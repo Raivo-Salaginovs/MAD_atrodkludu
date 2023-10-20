@@ -1,4 +1,4 @@
-Izlabo radušos kļūdu!
- a="rudens"
+# Izlabo radušos kļūdu!
+a="rudens"
 b="ziema"
-print("Man {a patīk labāk nekā {b}.")
+print(f"Man {a} patīk labāk nekā {b}.")
